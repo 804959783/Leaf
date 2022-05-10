@@ -1,0 +1,13 @@
+#leaf:
+#  name: com.sankuai.leaf.opensource.test
+#  segment:
+#    enable: false
+#  jdbc:
+#    url: 127.0.0.1:3306/leaf
+#    username: root
+#    password: 123456
+#  snowflake:
+#    enable: false
+#    zk:
+#      address:
+#    port:
